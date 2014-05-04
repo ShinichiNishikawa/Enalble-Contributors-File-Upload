@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Enable Contributors Upload File
-Plugin URI: https://github.com/ShinichiNishikawa/
+Plugin URI: https://github.com/ShinichiNishikawa/Enalble-Contributors-File-Upload
 Description: This plugin enables Contributors role to upload files.
 Author: Shinichi Nishikawa
 Version: 0.0
